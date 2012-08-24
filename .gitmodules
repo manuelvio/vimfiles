@@ -1,60 +1,80 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
-	url = http://github.com/tpope/vim-fugitive.git
+    url = http://github.com/tpope/vim-fugitive.git
+    ignore = dirty
 [submodule "bundle/color-sampler-pack"]
 	path = bundle/color-sampler-pack
 	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
+    ignore = dirty
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = https://github.com/widox/vim-buffer-explorer-plugin.git
+    ignore = dirty
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+    ignore = dirty
 [submodule "bundle/autoclose"]
 	path = bundle/autoclose
 	url = https://github.com/seletskiy/vim-autoclose.git
+    ignore = dirty
 [submodule "bundle/ctrlp"]
 	path = bundle/ctrlp
 	url = https://github.com/kien/ctrlp.vim.git
+    ignore = dirty
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/garbas/vim-snipmate.git
+    ignore = dirty
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
+    ignore = dirty
 [submodule "bundle/vim-addon-mw-utils"]
 	path = bundle/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+    ignore = dirty
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
 	url = https://github.com/honza/snipmate-snippets.git
+    ignore = dirty
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+    ignore = dirty
 [submodule "bundle/camelcasemotion"]
 	path = bundle/camelcasemotion
 	url = https://github.com/bkad/CamelCaseMotion.git
+    ignore = dirty
 [submodule "bundle/css-color"]
 	path = bundle/css-color
 	url = https://github.com/skammer/vim-css-color.git
+    ignore = dirty
 [submodule "bundle/endwise"]
 	path = bundle/endwise
 	url = https://github.com/tpope/vim-endwise.git
+    ignore = dirty
 [submodule "/home/manuel/.vim/bundle/gundo"]
 	path = /home/manuel/.vim/bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
+    ignore = dirty
 [submodule "/home/manuel/.vim/bundle/matchit"]
 	path = /home/manuel/.vim/bundle/matchit
 	url = https://github.com/tsaleh/vim-matchit.git
+    ignore = dirty
 [submodule "/home/manuel/.vim/bundle/ragtag"]
 	path = /home/manuel/.vim/bundle/ragtag
 	url = https://github.com/tpope/vim-ragtag.git
+    ignore = dirty
 [submodule "/home/manuel/.vim/bundle/surround"]
 	path = /home/manuel/.vim/bundle/surround
 	url = https://github.com/tpope/vim-surround.git
+    ignore = dirty
 [submodule "/home/manuel/.vim/bundle/syntastic"]
 	path = /home/manuel/.vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+    ignore = dirty
 [submodule "bundle/taglist-plus"]
 	path = bundle/taglist-plus
 	url = https://github.com/klen/vim-taglist-plus.git
+    ignore = dirty
