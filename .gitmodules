@@ -31,3 +31,15 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/camelcasemotion"]
+	path = bundle/camelcasemotion
+	url = https://github.com/bkad/CamelCaseMotion.git
+[submodule "bundle/css-color"]
+	path = bundle/css-color
+	url = https://github.com/skammer/vim-css-color.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "/home/manuel/.vim/bundle/gundo"]
+	path = /home/manuel/.vim/bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
