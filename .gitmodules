@@ -43,3 +43,18 @@
 [submodule "/home/manuel/.vim/bundle/gundo"]
 	path = /home/manuel/.vim/bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
+[submodule "/home/manuel/.vim/bundle/matchit"]
+	path = /home/manuel/.vim/bundle/matchit
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "/home/manuel/.vim/bundle/ragtag"]
+	path = /home/manuel/.vim/bundle/ragtag
+	url = https://github.com/tpope/vim-ragtag.git
+[submodule "/home/manuel/.vim/bundle/surround"]
+	path = /home/manuel/.vim/bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "/home/manuel/.vim/bundle/syntastic"]
+	path = /home/manuel/.vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/taglist-plus"]
+	path = bundle/taglist-plus
+	url = https://github.com/klen/vim-taglist-plus.git
