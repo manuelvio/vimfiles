@@ -54,24 +54,24 @@
 	path = bundle/endwise
 	url = https://github.com/tpope/vim-endwise.git
     ignore = dirty
-[submodule "/home/manuel/.vim/bundle/gundo"]
-	path = /home/manuel/.vim/bundle/gundo
+[submodule "bundle/gundo"]
+	path = bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
     ignore = dirty
-[submodule "/home/manuel/.vim/bundle/matchit"]
-	path = /home/manuel/.vim/bundle/matchit
+[submodule "bundle/matchit"]
+	path = bundle/matchit
 	url = https://github.com/tsaleh/vim-matchit.git
     ignore = dirty
-[submodule "/home/manuel/.vim/bundle/ragtag"]
-	path = /home/manuel/.vim/bundle/ragtag
+[submodule "bundle/ragtag"]
+	path = bundle/ragtag
 	url = https://github.com/tpope/vim-ragtag.git
     ignore = dirty
-[submodule "/home/manuel/.vim/bundle/surround"]
-	path = /home/manuel/.vim/bundle/surround
+[submodule "bundle/surround"]
+	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
     ignore = dirty
-[submodule "/home/manuel/.vim/bundle/syntastic"]
-	path = /home/manuel/.vim/bundle/syntastic
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
     ignore = dirty
 [submodule "bundle/taglist-plus"]
