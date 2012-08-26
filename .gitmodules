@@ -78,3 +78,6 @@
 	path = bundle/taglist-plus
 	url = https://github.com/klen/vim-taglist-plus.git
     ignore = dirty
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = https://github.com/Shougo/neocomplcache.git
