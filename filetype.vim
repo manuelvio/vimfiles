@@ -21,6 +21,7 @@ au BufRead,BufNewFile *.jst.eco                 set ft=eco.html
 
 au BufRead,BufNewFile Gemfile                   set ft=Gemfile.ruby
 
+au BufRead,BufNewFile *.gdoc                    setf textile
 " Fix indentation rules on Ruby
 au FileType ruby setlocal indentkeys+==else
 
